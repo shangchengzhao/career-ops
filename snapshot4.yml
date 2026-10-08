@@ -1,0 +1,448 @@
+- generic [ref=f17e1]:
+  - navigation [ref=f17e2]:
+    - generic [ref=f17e3]:
+      - link [ref=f17e4] [cursor=pointer]:
+        - /url: /
+        - img "Waymo logo" [ref=f17e5]
+      - generic [ref=f17e6]:
+        - list [ref=f17e7]:
+          - listitem [ref=f17e8]:
+            - link "Why Waymo" [ref=f17e9] [cursor=pointer]:
+              - /url: /why-waymo
+          - listitem [ref=f17e10]:
+            - button "Working at Waymo" [ref=f17e11] [cursor=pointer]
+          - listitem [ref=f17e12]:
+            - button "Teams" [ref=f17e13] [cursor=pointer]
+          - listitem [ref=f17e14]:
+            - link "Early careers" [ref=f17e15] [cursor=pointer]:
+              - /url: /early-careers
+          - listitem [ref=f17e16]:
+            - link "How we hire" [ref=f17e17] [cursor=pointer]:
+              - /url: /how-we-hire
+          - listitem [ref=f17e18]:
+            - link "Open roles" [ref=f17e19] [cursor=pointer]:
+              - /url: /jobs/search
+          - listitem [ref=f17e20]:
+            - link "Visit Waymo.com" [ref=f17e21] [cursor=pointer]:
+              - /url: https://waymo.com/
+          - listitem [ref=f17e22]:
+            - link [ref=f17e23] [cursor=pointer]:
+              - /url: /me/settings
+              - img "Candidate settings" [ref=f17e24]
+        - text:  
+  - generic [ref=f17e26]:
+    - generic [ref=f17e35]:
+      - heading [level=1] [ref=f17e36]:
+        - img "jobdescription_image_2x.png" [ref=f17e37]
+      - heading "2027 Summer Intern, PhD, Safety Research, Human Behavior Analytics" [level=1] [ref=f17e38]
+      - heading "Mountain View, California, United States Intern Safety Job ID:5399" [level=2] [ref=f17e39]:
+        - generic [ref=f17e40]: Mountain View, California, United States
+        - generic [ref=f17e41]: Intern
+        - generic [ref=f17e42]: Safety
+        - generic [ref=f17e43]: Job ID:5399
+      - paragraph [ref=f17e44]:
+        - link "Apply now" [ref=f17e45] [cursor=pointer]:
+          - /url: "#apply"
+    - generic [ref=f17e50]:
+      - generic [ref=f17e51]:
+        - generic [ref=f17e55]:
+          - text: "Job ID:"
+          - generic [ref=f17e57]:
+            - button "Add to favorites" [ref=f17e59] [cursor=pointer]
+            - link "View favorites" [ref=f17e61] [cursor=pointer]:
+              - /url: /me/settings
+          - generic [ref=f17e63]:
+            - paragraph [ref=f17e65]: Waymo is an autonomous driving technology company with the mission to be the world's most trusted driver. Since its start as the Google Self-Driving Car Project in 2009, Waymo has focused on building the Waymo Driver—The World's Most Experienced Driver™—to improve access to mobility while saving thousands of lives now lost to traffic crashes. The Waymo Driver powers Waymo’s fully autonomous ride-hail service and can also be applied to a range of vehicle platforms and product use cases. The Waymo Driver has provided over ten million rider-only trips, enabled by its experience autonomously driving over 100 million miles on public roads and tens of billions in simulation across 15+ U.S. states.
+            - paragraph [ref=f17e66]: The Human Behavior Analytics (HBA) team, part of the Waymo Safety team, conducts research and development on computational road user behavior models and other methods and tools used for evaluating the behavior and safety of the Waymo Driver. This work typically exists at the intersection between AI/ML and cognitive science and is done in close collaboration with other Waymo teams, in particular SW Research, Systems Engineering, Simulation and Data Science. The HBA team also engages extensively in research with external academic partners.
+            - paragraph [ref=f17e67]: "Waymo interns partner with leaders in the industry on projects that create impact to the company. We believe learning is a two-way street: applying your knowledge while providing you with opportunities to expand your skill-set. Interns are an important part of our culture and our recruiting pipeline. Join us at Waymo for a fun and rewarding internship!"
+            - paragraph [ref=f17e68]
+            - paragraph [ref=f17e69]:
+              - strong [ref=f17e70]: "You will:"
+            - list [ref=f17e71]:
+              - listitem [ref=f17e72]: Survey the state-of-the-art in digital neuroscience / cognitive science and mechanistic interpretability
+              - listitem [ref=f17e73]: Develop models able to represent some select aspects of human driving behavior not typically accounted for by existing data-driven ML models (e.g., collision avoidance, road user interaction or visual behavior)
+              - listitem [ref=f17e74]: Explore and demonstrate different ways in which the internal mechanisms of these models can be interpreted and explained
+            - paragraph [ref=f17e75]
+            - paragraph [ref=f17e76]:
+              - strong [ref=f17e77]: "You have:"
+            - list [ref=f17e78]:
+              - listitem [ref=f17e79]: A strong research background and expertise in cognitive science and / or neuroscience
+              - listitem [ref=f17e80]: Expertise in contemporary AI and machine learning
+              - listitem [ref=f17e81]: Strong documented computational skills (math and coding)
+            - paragraph [ref=f17e82]
+            - paragraph [ref=f17e83]:
+              - strong [ref=f17e84]: "We prefer:"
+            - list [ref=f17e85]:
+              - listitem [ref=f17e86]: Specific experience from research on mechanistic interpretability
+            - paragraph [ref=f17e87]:
+              - strong [ref=f17e88]: "General Perks:"
+            - list [ref=f17e89]:
+              - listitem [ref=f17e90]: Help solve challenging problems with a direct impact on the company
+              - listitem [ref=f17e91]: Competitive compensation packages with a housing/relocation bonus (if applicable)
+              - listitem [ref=f17e92]: Medical, dental, and vision insurance
+              - listitem [ref=f17e93]: Fun intern events and networking opportunities
+            - paragraph [ref=f17e94]:
+              - strong [ref=f17e95]: "Onsite Perks:"
+            - list [ref=f17e96]:
+              - listitem [ref=f17e97]: Free breakfast, lunch, dinner, and snacks
+              - listitem [ref=f17e98]: Free access to Google shuttles
+              - listitem [ref=f17e99]: Onsite gym
+            - paragraph [ref=f17e100]
+            - paragraph [ref=f17e101]: "Note: This will be a hybrid onsite internship position. We will accept resumes on a rolling basis until the role is filled. To be in consideration for multiple roles, you will need to apply to each one individually - please apply to the top 3 roles you are interested in.At Waymo, we don’t just accept differences - we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you have a disability or special need that requires accommodation, please let us know."
+            - generic [ref=f17e103]:
+              - generic [ref=f17e104]: The expected hourly rate for this full-time position is listed below. Interns are also eligible to participate in the Company’s generous benefits programs, subject to eligibility requirements.
+              - generic [ref=f17e106]: Hourly PhD Pay
+              - generic [ref=f17e107]: $85—$85 USD
+        - paragraph [ref=f17e111]: We appreciate your interest in Waymo. Waymo is proud to be an equal opportunity employer, committed to creating a culture of belonging and maintaining a supportive workplace for all employees. We welcome applicants of all backgrounds, and employment decisions are based on a candidate’s qualifications, experience, and alignment with job requirements and business needs. Waymo does not discriminate against, and prohibits harassment of, any applicant or employee based on race, color, sex, sexual orientation, gender identity, religion, national origin, age, disability, military status, family status, pregnancy, genetic information or any other basis protected by applicable law. Waymo will also consider for employment qualified applicants with criminal records in accordance with applicable law. Waymo is committed to making sure our hiring process is accessible for all candidates. If you need assistance applying for a role or participating in the interview process due to a disability, please let the recruiting team know or email waymo-candidatesupport@google.com. (This email address is intended to be used only for requesting accommodations as part of the application process. Other inquiries will not receive a response.)
+      - generic [ref=f17e112]:
+        - generic [ref=f17e115]:
+          - button "Share" [ref=f17e118] [cursor=pointer]
+          - iframe [ref=f17e120]:
+            - link "Post" [ref=f24e4] [cursor=pointer]:
+              - /url: https://x.com/intent/tweet?original_referer=https%3A%2F%2Fcareers.withwaymo.com%2F&ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Eshare%7Ctwgr%5E&text=I%20would%20like%20to%20share%20this%20job%20opportunity%3A&url=https%3A%2F%2Fcareers.withwaymo.com%2Fjobs%2F2027-summer-intern-phd-safety-research-human-behavior-analytics-mountain-view-california-united-states
+          - button "Share" [ref=f17e121] [cursor=pointer]
+        - generic "Waymo's 2024 Internship Applications Are Now Open!" [ref=f17e128]:
+          - region "Video Player" [ref=f17e129]:
+            - iframe [ref=f17e130]:
+              - generic [ref=f23e1]:
+                - generic "YouTube Video Player" [ref=f23e3]
+                - generic [ref=f23e5]:
+                  - generic:
+                    - generic:
+                      - generic [ref=f23e6] [cursor=pointer]
+                      - button "Play video" [ref=f23e10] [cursor=pointer]
+                      - button "Hide player controls" [ref=f23e12] [cursor=pointer]
+                      - generic [ref=f23e14]:
+                        - generic [ref=f23e19]:
+                          - generic [ref=f23e20]:
+                            - link "Waymo's 2024 Internship Applications Are Now Open!" [ref=f23e21] [cursor=pointer]:
+                              - /url: https://www.youtube.com/watch?v=QPVlRHZFZog
+                            - link "Waymo" [ref=f23e22] [cursor=pointer]:
+                              - /url: /channel/UCh5Yo6HN5b2Hco70HosIzZA
+                          - generic [ref=f23e24]:
+                            - button [ref=f23e64] [cursor=pointer]:
+                              - img "thumbnail-image" [ref=f23e65]
+                            - generic [ref=f23e27]:
+                              - generic: Waymo
+                              - generic: 397K subscribers
+                        - generic [ref=f23e28]:
+                          - generic [ref=f23e29]:
+                            - button "Share" [ref=f23e31] [cursor=pointer]
+                            - button "Watch later" [ref=f23e40] [cursor=pointer]
+                          - link "Watch on YouTube" [ref=f23e51] [cursor=pointer]:
+                            - /url: https://www.youtube.com/watch?v=QPVlRHZFZog
+                            - generic [ref=f23e52]: Watch on
+            - generic [ref=f17e131] [cursor=pointer]
+            - button "Play Video" [ref=f17e133] [cursor=pointer]
+            - text:            
+        - generic [ref=f17e139]:
+          - generic [ref=f17e142]:
+            - heading "Job Alerts" [level=3] [ref=f17e143]
+            - paragraph [ref=f17e144]: Sign up to receive tailored job alerts delivered straight to your inbox!
+          - generic [ref=f17e146]:
+            - generic [ref=f17e147]:
+              - generic [ref=f17e148]: First Name (required)
+              - textbox "First Name (required)" [ref=f17e150]:
+                - /placeholder: First Name
+            - generic [ref=f17e151]:
+              - generic [ref=f17e152]: Last Name (required)
+              - textbox "Last Name (required)" [ref=f17e154]:
+                - /placeholder: Last Name
+            - generic [ref=f17e155]:
+              - generic [ref=f17e156]: Email (required)
+              - textbox "Email (required)" [ref=f17e158]:
+                - /placeholder: Email
+            - group [ref=f17e160]:
+              - generic [ref=f17e161]: "Choose departments and locations you're interested in:"
+              - generic [ref=f17e162]: Finalize your job alert by selecting criteria from the dropdowns below. You can select multiple options from each dropdown by returning to the combobox and re-entering the list of options. Submit at the end to create your job alert.
+              - generic [ref=f17e163]:
+                - generic [aria-hidden] [ref=f17e164]: Departments
+                - generic [ref=f17e167]:
+                  - generic [ref=f17e168] [cursor=pointer]: Safety
+                  - combobox "Departments" [ref=f17e169]
+              - generic [ref=f17e170]:
+                - generic [aria-hidden] [ref=f17e171]: Locations
+                - generic [ref=f17e174]:
+                  - generic [ref=f17e175] [cursor=pointer]: Mountain View, California, United States
+                  - combobox "Locations" [ref=f17e176]
+            - button "Notify me" [ref=f17e178] [cursor=pointer]
+            - generic [ref=f17e180]:
+              - paragraph
+              - paragraph [ref=f17e181]:
+                - text: By submitting your email address, you agree to our
+                - link "Candidate Privacy Policy" [ref=f17e182] [cursor=pointer]:
+                  - /url: https://careers.withwaymo.com/candidate-privacy-policy
+                - text: . The data you enter will be retained for two years (four years in California), unless you delete it before that time. You may
+                - link "unsubscribe" [ref=f17e183] [cursor=pointer]:
+                  - /url: /me/settings
+                - text: from job alerts or remove your data from the system at any time.
+              - paragraph
+        - generic [ref=f17e185]:
+          - generic [ref=f17e187]:
+            - heading "Quick Links" [level=3] [ref=f17e188]
+            - heading [level=4] [ref=f17e189]:
+              - link "How We Hire" [ref=f17e190] [cursor=pointer]:
+                - /url: /how-we-hire
+            - heading [level=4] [ref=f17e191]:
+              - link "Our Benefits" [ref=f17e192] [cursor=pointer]:
+                - /url: /benefits
+            - paragraph [ref=f17e193]
+            - heading "Related Job Openings" [level=2] [ref=f17e194]
+          - paragraph [ref=f17e197]: There are currently no jobs matching this criteria
+    - heading "Some of our Benefits" [level=2] [ref=f17e207]
+    - region "Carousel" [ref=f17e219]:
+      - generic [ref=f17e220]:
+        - generic [ref=f17e222]:
+          - generic [ref=f17e224]:
+            - heading "Health and wellness" [level=2] [ref=f17e225]
+            - paragraph [ref=f17e227]: Our people are at the heart of everything we do. At Waymo, you can enjoy top-notch medical, dental and vision insurance, mental wellness support, gym membership, and special wellness programs.
+          - generic [ref=f17e229]:
+            - heading "Financial wellness" [level=2] [ref=f17e230]
+            - paragraph [ref=f17e232]: Your financial peace of mind is important to us. At Waymo, we offer competitive compensation, bonus opportunities, equity, employees provident fund, and lots of other perks and employee discounts.
+          - generic [ref=f17e234]:
+            - heading "Flexibility and time off" [level=2] [ref=f17e235]
+            - paragraph [ref=f17e237]: Take the time you need to relax and recharge. Enjoy the flexibility to work from another location for four weeks per year. We support an on-site or hybrid work model and offer remote working opportunities, paid time off, bereavement, sick, and parental leave.
+        - button "Previous" [ref=f17e238] [cursor=pointer]
+        - button "Next" [ref=f17e241] [cursor=pointer]
+    - paragraph [ref=f17e253]:
+      - link "Learn more" [ref=f17e254] [cursor=pointer]:
+        - /url: /benefits
+    - generic [ref=f17e263]:
+      - heading "Ready to Apply?" [level=2] [ref=f17e264]
+      - paragraph [ref=f17e265]
+    - generic [ref=f17e276]:
+      - paragraph [ref=f17e280]:
+        - emphasis [ref=f17e281]: To ensure thorough consideration of each application, candidates may submit up to 5 job applications within a 60-day period. We encourage you to carefully review job descriptions and apply to positions that best match your skills. Applications beyond this limit will not be considered.
+      - generic [ref=f17e283]:
+        - generic [ref=f17e284]:
+          - generic [ref=f17e285]: First Name (required)
+          - textbox "First Name (required)" [ref=f17e287]:
+            - /placeholder: First Name
+            - text: Shangcheng
+        - generic [ref=f17e288]:
+          - generic [ref=f17e289]: Last Name (required)
+          - textbox "Last Name (required)" [ref=f17e291]:
+            - /placeholder: Last Name
+            - text: Zhao
+        - generic [ref=f17e292]:
+          - generic [ref=f17e293]: Email (required)
+          - textbox "Email (required)" [ref=f17e295]:
+            - /placeholder: Email
+            - text: shangchengzhao@gmail.com
+        - generic [ref=f17e296]:
+          - generic [ref=f17e297]: Phone Number (required)
+          - generic [ref=f17e299]:
+            - button "Change country, selected United States (+1)" [ref=f17e301] [cursor=pointer]
+            - textbox "Phone Number (required)" [ref=f17e305]:
+              - /placeholder: Phone Number
+              - text: "+18052523783"
+        - generic [ref=f17e306]:
+          - generic [ref=f17e307]:
+            - generic [ref=f17e308]:
+              - generic [ref=f17e309]: Resume (required)
+              - button "Resume (required)" [ref=f17e311] [cursor=pointer]
+              - generic [ref=f17e312]: "Accepted formats: PDF, DOC, DOCX, RTF, ODT, XML, DOT, PNG, GIF, JPG, JPEG, ZIP"
+            - generic [ref=f17e313]:
+              - generic [ref=f17e314]: Cover Letter
+              - button "Cover Letter" [ref=f17e315] [cursor=pointer]
+              - generic [ref=f17e316]: "Accepted formats: PDF, DOC, DOCX, RTF, ODT, XML, DOT, PNG, GIF, JPG, JPEG, ZIP"
+            - generic [ref=f17e317]:
+              - generic [ref=f17e318]: Website
+              - textbox "Website" [ref=f17e319]
+            - generic [ref=f17e320]:
+              - generic [ref=f17e321]: LinkedIn Profile
+              - textbox "LinkedIn Profile" [ref=f17e322]: www.linkedin.com/in/shangcheng-zhao-97ba38332
+            - generic [ref=f17e323]:
+              - generic [ref=f17e324]: How did you hear about this opportunity?
+              - combobox "How did you hear about this opportunity?" [ref=f17e325]:
+                - option
+                - option "A personal contact at Google/Alphabet told me about the opportunity"
+                - option "A personal contact at Waymo told me about the opportunity"
+                - option "Academic Contact (professor recommendation, classmate, etc.)"
+                - option "Agency Recruiter Outreach"
+                - option "Alphabet's Internal Job Board (Grow)"
+                - option "Glassdoor"
+                - option "Handshake"
+                - option "Indeed"
+                - option "LinkedIn" [selected]
+                - option "Media (blog post, news article, etc.)"
+                - option "Social Media (Facebook, Twitter, etc.)"
+                - option "University Event (info session, tech talk, luncheon, etc.)"
+                - option "University Job Board"
+                - option "Waymo Careers Page"
+                - option "Waymo Industry Event (conference, career fair, etc.)"
+                - option "Waymo Recruiter Outreach"
+                - option "Waymo Advertising"
+                - option "Word of Mouth"
+                - option "Other"
+            - generic [ref=f17e326]:
+              - generic [ref=f17e327]: Do you require work authorization? (required)
+              - combobox "Do you require work authorization? (required)" [ref=f17e329]:
+                - option
+                - option "Yes"
+                - option "No" [selected]
+                - option "Unknown"
+            - generic [ref=f17e330]:
+              - generic [ref=f17e331]: If yes, what kind? (If you do not require work authorization sponsorship please select Not Applicable.) (required)
+              - combobox "If yes, what kind? (If you do not require work authorization sponsorship please select Not Applicable.) (required)" [ref=f17e333]:
+                - option
+                - option "CPT"
+                - option "OPT"
+                - option "TN (Applicable for citizens of Canada or Mexico)"
+                - option "J-1"
+                - option "Other"
+                - option "I don't know"
+                - option "Not applicable" [selected]
+            - generic [ref=f17e334]:
+              - generic [ref=f17e335]: Would you require an export license under the circumstances described below? (required)
+              - generic [ref=f17e337]:
+                - paragraph [ref=f17e338]: "Internships at Waymo, including those outside the US, involve access to information regulated by US export control laws. These laws require that export controlled information cannot be shared without an export license to individuals whose most recent country of citizenship or permanent residence is Cuba, Iran, North Korea, Syria or Ukrainian territories: Crimea, the so-called Donetsk People's Republic (\"DNR\"), and the so-called Luhansk People's Republic (\"LNR\"). Please understand that applications for these licenses have extended processing times and/or are routinely denied by the U.S. government such that the required license will not be granted by the summer internship start date."
+                - paragraph [ref=f17e339]:
+                  - strong [ref=f17e340]: Note
+                  - text: ":"
+                  - emphasis [ref=f17e341]: License requirements do not apply (i.e., no export license is needed) if a person from one of these countries is also a US citizen, national, or lawful permanent resident or has been granted refugee or asylum status in the US.
+              - combobox "Would you require an export license under the circumstances described below? (required)" [ref=f17e342]:
+                - option
+                - option "Yes"
+                - option "No" [selected]
+                - option "I'm not sure"
+            - generic [ref=f17e343]:
+              - generic [ref=f17e344]: Are you a current or former Alphabet employee, intern, vendor, contractor, or temp (including Google and other Alphabet subsidiaries)? (required)
+              - combobox "Are you a current or former Alphabet employee, intern, vendor, contractor, or temp (including Google and other Alphabet subsidiaries)? (required)" [ref=f17e346]:
+                - option
+                - option "Current Alphabet Employee or Intern"
+                - option "Former Alphabet Employee or Intern"
+                - option "Current or Former member of Alphabet extended workforce"
+                - option "Never worked at Alphabet" [selected]
+            - generic [ref=f17e347]:
+              - generic [ref=f17e348]: If yes, please provide your LDAP.
+              - textbox "If yes, please provide your LDAP." [ref=f17e349]
+            - generic [ref=f17e350]:
+              - generic [ref=f17e351]: "Please review and acknowledge our Candidate Privacy Policy linked below: (required)"
+              - paragraph [ref=f17e354]:
+                - link "Waymo Applicant and Candidate Privacy Policy" [ref=f17e355] [cursor=pointer]:
+                  - /url: https://careers.withwaymo.com/candidate-privacy-policy
+              - 'combobox "Please review and acknowledge our Candidate Privacy Policy linked below: (required)" [ref=f17e356]':
+                - option [selected]
+                - option "I acknowledge that I have read and understood the terms of the Waymo Applicant and Candidate Privacy Policy."
+            - generic [ref=f17e357]:
+              - generic [ref=f17e358]: Please provide your full legal name as it appears on your government ID (required)
+              - paragraph [ref=f17e361]: To ensure accuracy of our candidate records (including future employment records should you ultimately join Waymo), please provide your full legal name exactly as it appears on your government-issued ID.
+              - textbox "Please provide your full legal name as it appears on your government ID (required)" [ref=f17e362]: Shangcheng Zhao
+            - generic [ref=f17e363]:
+              - generic [ref=f17e364]: To ensure a fair and accurate assessment of each candidate's unique capabilities, Waymo prohibits the use of unauthorized outside assistance during the interview process. This includes, but is not limited to, artificial intelligence (AI) tools, generative software, or third-party resources, unless explicitly authorized by the hiring team. By submitting this application, you acknowledge and agree to adhere to these guidelines. (required)
+              - combobox "To ensure a fair and accurate assessment of each candidate's unique capabilities, Waymo prohibits the use of unauthorized outside assistance during the interview process. This includes, but is not limited to, artificial intelligence (AI) tools, generative software, or third-party resources, unless explicitly authorized by the hiring team. By submitting this application, you acknowledge and agree to adhere to these guidelines. (required)" [ref=f17e366]:
+                - option [selected]
+                - option "I acknowledge the above policies"
+            - generic [ref=f17e367]:
+              - generic [ref=f17e368]: Please provide the state/region in which you currently reside. (required)
+              - combobox "Please provide the state/region in which you currently reside. (required)" [ref=f17e370]:
+                - option
+                - option "New York"
+                - option "Illinois"
+                - option "Another State in the US" [selected]
+                - option "APAC"
+                - option "EMEA"
+                - option "Other"
+          - generic [ref=f17e372]:
+            - generic [ref=f17e374]:
+              - generic [ref=f17e375]:
+                - generic [ref=f17e376]: School (required)
+                - textbox "Start typing your school's name…" [active] [ref=f17e381]: University of California, Santa Barbara
+              - generic [ref=f17e382]:
+                - generic [ref=f17e383]: End date (required)
+                - generic [ref=f17e385]:
+                  - spinbutton "End date (required)" [ref=f17e387]
+                  - spinbutton "YYYY" [ref=f17e389]
+            - button "+ Add another education" [ref=f17e390] [cursor=pointer]
+        - group [ref=f17e392]:
+          - checkbox "66ebdb47" [ref=f17e393]
+          - text: Check this box to join the talent community and sign up for job alerts
+        - generic [ref=f17e394]:
+          - checkbox "By submitting my application, I certify that the information provided (including in my resume/CV) is true and correct. I understand that any misrepresentations or false statements made in connection with the recruitment process may be grounds for disqualification from further consideration for employment or, if employed, separation of employment. (required)" [ref=f17e395]
+          - generic [ref=f17e397]:
+            - paragraph [ref=f17e398]: By submitting my application, I certify that the information provided (including in my resume/CV) is true and correct. I understand that any misrepresentations or false statements made in connection with the recruitment process may be grounds for disqualification from further consideration for employment or, if employed, separation of employment.
+            - text: (required)
+        - button "Submit your application" [ref=f17e400] [cursor=pointer]
+        - generic [ref=f17e402]:
+          - paragraph
+          - paragraph [ref=f17e403]:
+            - text: By submitting your email address, you agree to our
+            - link "Candidate Privacy Policy" [ref=f17e404] [cursor=pointer]:
+              - /url: https://careers.withwaymo.com/candidate-privacy-policy
+            - text: . The data you enter will be retained for two years (four years in California), unless you delete it before that time. You may
+            - link "unsubscribe" [ref=f17e405] [cursor=pointer]:
+              - /url: /me/settings
+            - text: from job alerts or remove your data from the system at any time.
+          - paragraph
+  - contentinfo [ref=f17e406]:
+    - generic [ref=f17e407]:
+      - link [ref=f17e410] [cursor=pointer]:
+        - /url: /
+        - img "Waymo logo" [ref=f17e411]
+      - generic [ref=f17e412]:
+        - list [ref=f17e414]:
+          - listitem [ref=f17e415]:
+            - link "Waymo.com" [ref=f17e416] [cursor=pointer]:
+              - /url: https://waymo.com/
+          - listitem [ref=f17e417]:
+            - link "Candidate Privacy Policy" [ref=f17e418] [cursor=pointer]:
+              - /url: /candidate-privacy-policy
+          - listitem [ref=f17e419]:
+            - link "Privacy Policy" [ref=f17e420] [cursor=pointer]:
+              - /url: https://waymo.com/privacy/
+          - listitem [ref=f17e421]:
+            - link "Terms" [ref=f17e422] [cursor=pointer]:
+              - /url: https://waymo.com/terms/
+          - listitem [ref=f17e423]:
+            - link "Zero Tolerance" [ref=f17e424] [cursor=pointer]:
+              - /url: https://waymo.com/zero-tolerance/
+          - listitem [ref=f17e425]:
+            - link "Safety Publications" [ref=f17e426] [cursor=pointer]:
+              - /url: https://waymo.com/safety/
+          - listitem [ref=f17e427]:
+            - link "Contact Us" [ref=f17e428] [cursor=pointer]:
+              - /url: https://waymo.com/contact/
+        - list [ref=f17e430]:
+          - listitem [ref=f17e431]:
+            - link "Blog" [ref=f17e432] [cursor=pointer]:
+              - /url: https://blog.waymo.com/
+          - listitem [ref=f17e433]:
+            - link "Research" [ref=f17e434] [cursor=pointer]:
+              - /url: https://waymo.com/research/
+          - listitem [ref=f17e435]:
+            - link "Legal" [ref=f17e436] [cursor=pointer]:
+              - /url: https://waymo.com/legal/patents
+          - listitem [ref=f17e437]:
+            - link "First Responders" [ref=f17e438] [cursor=pointer]:
+              - /url: https://waymo.com/firstresponders/
+          - listitem [ref=f17e439]:
+            - link "Waymo Community" [ref=f17e440] [cursor=pointer]:
+              - /url: https://ltad.com/
+          - listitem [ref=f17e441]:
+            - link "Notice to CA Residents" [ref=f17e442] [cursor=pointer]:
+              - /url: https://support.google.com/waymo/answer/9681942
+    - separator [ref=f17e445]
+    - generic [ref=f17e447]:
+      - paragraph [ref=f17e450]: © 2019-2024 Waymo LLC
+      - list [ref=f17e452]:
+        - listitem [ref=f17e453]:
+          - link "twitter icon" [ref=f17e454] [cursor=pointer]:
+            - /url: https://twitter.com/waymo/
+        - listitem [ref=f17e456]:
+          - link "linkedin icon" [ref=f17e457] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/waymo
+        - listitem [ref=f17e459]:
+          - link "instagram icon" [ref=f17e460] [cursor=pointer]:
+            - /url: https://www.instagram.com/waymo/?hl=en
+        - listitem [ref=f17e462]:
+          - link "facebook icon" [ref=f17e463] [cursor=pointer]:
+            - /url: https://facebook.com/waymo/
+        - listitem [ref=f17e465]:
+          - link "facebook icon" [ref=f17e466] [cursor=pointer]:
+            - /url: https://www.youtube.com/waymo
+    - link [ref=f17e468] [cursor=pointer]:
+      - /url: /jobs/search
+      - text: Search jobs
+      - img "Job search" [ref=f17e469]
+  - generic [ref=f17e487]: University of California, Santa Barbara
